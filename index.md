@@ -4,25 +4,25 @@
   <head>
     <meta charset="utf-8">
     <title>Donovan's Website</title>
-    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
   </head>
   <body>
     <div class="header">
-      <a class="nav" href="/www/html/site.html">
-            <input type="image" src="/www/imgs/logo2.png" width=46 height=32 />
+      <a class="nav" href="/html/site.html">
+            <input type="image" src="/imgs/logo2.png" width=46 height=32 />
       </a>
-      <a class="nav" href="/www/html/projects.html">Projects</a>
-      <a class="nav" href="/www/html/skills.html">Skills</a>
+      <a class="nav" href="/html/projects.html">Projects</a>
+      <a class="nav" href="/html/skills.html">Skills</a>
     </div>
     <div class="main">
 	  <hr>
 	  <h1>Donovan's Website</h1>
 	  <h2>Welcome to my site! Feel free to check out my projects.</h2>
       <a href="https://github.com/sopwithcamel110">
-            <input type="image" src="/www/imgs/github.jpg" width=100 height=100 />
+            <input type="image" src="/imgs/github.jpg" width=100 height=100 />
       </a>
       <a href="https://stackoverflow.com/users/14496502/dono-dev">
-            <input type="image" src="/www/imgs/stackoverflow.png" width=100 height=100 />
+            <input type="image" src="/imgs/stackoverflow.png" width=100 height=100 />
       </a>
     </div>
     <div class="footer">
