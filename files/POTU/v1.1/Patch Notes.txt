@@ -1,0 +1,9 @@
+-new spawn location, by the lake
+
+-added increase player customization, with a settings window and a sensitivity slider
+
+-added menu music with a volume slider
+
+-increased player speed
+
+-added one extra zombie per round
