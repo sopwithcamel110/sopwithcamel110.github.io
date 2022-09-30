@@ -58,6 +58,10 @@
   color: #0077b5;
 }
 
+.leetcode {
+	color: #ffa600;
+}
+
 .angellist {
   color: grey;
 }
@@ -77,6 +81,14 @@
 
 .github:hover {
   background-color: black;
+}
+
+.leetcode:hover{
+	background-color: #ffa600;
+}
+
+.leeticon{
+	background: url(https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
 }
 
 /* Buttons - Read Me, Contact Us */
